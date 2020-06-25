@@ -2,11 +2,8 @@
 
 Color Codes
 ------------
-Purple: #9999CC
-Pink: #CC9999
+Dark Pink: #C70039
 Grey: #666666
-Sky Blue: #99CCFF
-Green: #99CC99
 Light Grey: #F2F2F2
 Text Color: #666
 Dark blue : #0000FF
@@ -272,7 +269,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
   background-color: #989A9B;
 }
 
-.tm-btn-3 { background-color: #99CC99; }
+.tm-btn-3 { background-color:  #C70039; }
 .tm-btn-3:hover { background-color: #547d54; }
 
 .clearfix::after {
@@ -516,35 +513,35 @@ figure.effect-bubba:hover p {
   position:relative;
   text-align:right;
   min-height:400px; 
-  width:50%; 
-  height: 100%;
+  width:35%; 
+  height: 70%;
   padding-right: 10px;
 }
 
 .gmap-canvas {
   overflow:hidden;
   background:none!important;
-  min-height:400px;
+  min-height:50px;
   width:100%;
 }
 
-.contact-form-outer { width: 100%; }
-.contact-info-outer { width: 50%; }
+.contact-form-outer { width: 37%; }
+.contact-info-outer { width: 28%; }
 
 .contact-form-outer {
-  padding-left: 50px;
-  padding-right: 90px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .contact-info-outer { padding-left: 10px; }
 
 .contact-info {
   padding: 45px 40px;  
-  height: 77%;
+  height: 68%;
 }
 
 #contact-form {
-  height: 100%;
+  height: 73%;
   padding: 35px 65px;
 }
 
